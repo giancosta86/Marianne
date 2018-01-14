@@ -1,0 +1,17 @@
+<table class="linearTable">
+    <thead>
+        <tr>
+            <td class="item">{{ include.itemHeader }}</td>
+        </tr>
+    </thead>
+
+    <tbody>
+        {% for entry in include.source %}
+
+        <tr>
+            <td class="item">{{ entry | prepend: include.itemPrefix | append: include.itemSuffix }}</td>
+        </tr>
+
+        {% endfor %}
+    </tbody>
+</table>

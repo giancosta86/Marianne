@@ -1,0 +1,21 @@
+{% assign itemKey = include.itemKey | default: "item" %}
+
+<table class="frequencyTable">
+    <thead>
+        <tr>
+            <td class="item">{{ include.itemHeader }}</td>
+            <td class="frequency">Frequency</td>
+        </tr>
+    </thead>
+    <tbody>
+        {% for entry in include.source %}
+
+        <tr>
+            <td class="item">{{ entry[itemKey] | prepend: include.itemPrefix | append: include.itemSuffix }}</td>
+
+            <td class="frequency">{{ entry.frequency }}</td>
+        </tr>
+
+        {% endfor %}
+    </tbody>
+</table>

@@ -1,0 +1,2554 @@
+[
+  {
+    "ending": "relle",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 79
+  },
+  {
+    "ending": "onie",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 135
+  },
+  {
+    "ending": "ineur",
+    "mainGender": "m",
+    "masculinePercentage": 100.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 0.0,
+    "totalCount": 68
+  },
+  {
+    "ending": "terie",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 169
+  },
+  {
+    "ending": "tude",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 94
+  },
+  {
+    "ending": "gon",
+    "mainGender": "m",
+    "masculinePercentage": 100.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 0.0,
+    "totalCount": 56
+  },
+  {
+    "ending": "nine",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 65
+  },
+  {
+    "ending": "lan",
+    "mainGender": "m",
+    "masculinePercentage": 100.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 0.0,
+    "totalCount": 126
+  },
+  {
+    "ending": "nal",
+    "mainGender": "m",
+    "masculinePercentage": 100.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 0.0,
+    "totalCount": 66
+  },
+  {
+    "ending": "manie",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 91
+  },
+  {
+    "ending": "derie",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 77
+  },
+  {
+    "ending": "asie",
+    "mainGender": "f",
+    "masculinePercentage": 0.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 100.0,
+    "totalCount": 56
+  },
+  {
+    "ending": "en",
+    "mainGender": "m",
+    "masculinePercentage": 99.63487972508591,
+    "epicenePercentage": 0.21477663230240548,
+    "femininePercentage": 0.15034364261168384,
+    "totalCount": 4656
+  },
+  {
+    "ending": "sme",
+    "mainGender": "m",
+    "masculinePercentage": 99.44521497919555,
+    "epicenePercentage": 0.20804438280166435,
+    "femininePercentage": 0.34674063800277394,
+    "totalCount": 1442
+  },
+  {
+    "ending": "oir",
+    "mainGender": "m",
+    "masculinePercentage": 99.27360774818402,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 0.7263922518159807,
+    "totalCount": 413
+  },
+  {
+    "ending": "nne",
+    "mainGender": "f",
+    "masculinePercentage": 0.7692307692307693,
+    "epicenePercentage": 0.09925558312655088,
+    "femininePercentage": 99.13151364764268,
+    "totalCount": 4030
+  },
+  {
+    "ending": "nade",
+    "mainGender": "f",
+    "masculinePercentage": 0.9345794392523364,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 99.06542056074767,
+    "totalCount": 107
+  },
+  {
+    "ending": "ron",
+    "mainGender": "m",
+    "masculinePercentage": 98.9010989010989,
+    "epicenePercentage": 0.8241758241758241,
+    "femininePercentage": 0.27472527472527475,
+    "totalCount": 364
+  },
+  {
+    "ending": "ier",
+    "mainGender": "m",
+    "masculinePercentage": 98.89018691588785,
+    "epicenePercentage": 0.6425233644859814,
+    "femininePercentage": 0.4672897196261682,
+    "totalCount": 1712
+  },
+  {
+    "ending": "cteur",
+    "mainGender": "m",
+    "masculinePercentage": 98.86363636363636,
+    "epicenePercentage": 1.1363636363636365,
+    "femininePercentage": 0.0,
+    "totalCount": 88
+  },
+  {
+    "ending": "yon",
+    "mainGender": "m",
+    "masculinePercentage": 98.6842105263158,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 1.3157894736842106,
+    "totalCount": 76
+  },
+  {
+    "ending": "ence",
+    "mainGender": "f",
+    "masculinePercentage": 0.8928571428571429,
+    "epicenePercentage": 0.44642857142857145,
+    "femininePercentage": 98.66071428571429,
+    "totalCount": 224
+  },
+  {
+    "ending": "ran",
+    "mainGender": "m",
+    "masculinePercentage": 98.63013698630137,
+    "epicenePercentage": 1.36986301369863,
+    "femininePercentage": 0.0,
+    "totalCount": 73
+  },
+  {
+    "ending": "tion",
+    "mainGender": "f",
+    "masculinePercentage": 1.1734028683181226,
+    "epicenePercentage": 0.21729682746631898,
+    "femininePercentage": 98.60930030421555,
+    "totalCount": 2301
+  },
+  {
+    "ending": "tine",
+    "mainGender": "f",
+    "masculinePercentage": 1.411764705882353,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 98.58823529411765,
+    "totalCount": 425
+  },
+  {
+    "ending": "in",
+    "mainGender": "m",
+    "masculinePercentage": 98.55687606112055,
+    "epicenePercentage": 0.4244482173174873,
+    "femininePercentage": 1.0186757215619695,
+    "totalCount": 2356
+  },
+  {
+    "ending": "nc",
+    "mainGender": "m",
+    "masculinePercentage": 98.50746268656717,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 1.492537313432836,
+    "totalCount": 67
+  },
+  {
+    "ending": "tif",
+    "mainGender": "m",
+    "masculinePercentage": 98.47328244274809,
+    "epicenePercentage": 0.7633587786259542,
+    "femininePercentage": 0.7633587786259542,
+    "totalCount": 131
+  },
+  {
+    "ending": "non",
+    "mainGender": "m",
+    "masculinePercentage": 98.44961240310077,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 1.550387596899225,
+    "totalCount": 129
+  },
+  {
+    "ending": "rion",
+    "mainGender": "m",
+    "masculinePercentage": 98.36065573770492,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 1.639344262295082,
+    "totalCount": 61
+  },
+  {
+    "ending": "um",
+    "mainGender": "m",
+    "masculinePercentage": 97.95918367346938,
+    "epicenePercentage": 0.5565862708719852,
+    "femininePercentage": 1.484230055658627,
+    "totalCount": 539
+  },
+  {
+    "ending": "se",
+    "mainGender": "f",
+    "masculinePercentage": 1.9355694020946572,
+    "epicenePercentage": 0.1988598700782182,
+    "femininePercentage": 97.86557072782712,
+    "totalCount": 15086
+  },
+  {
+    "ending": "age",
+    "mainGender": "m",
+    "masculinePercentage": 97.81445138269402,
+    "epicenePercentage": 0.6690454950936664,
+    "femininePercentage": 1.5165031222123104,
+    "totalCount": 2242
+  },
+  {
+    "ending": "sine",
+    "mainGender": "f",
+    "masculinePercentage": 2.3076923076923075,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 97.6923076923077,
+    "totalCount": 130
+  },
+  {
+    "ending": "lon",
+    "mainGender": "m",
+    "masculinePercentage": 97.53086419753086,
+    "epicenePercentage": 0.49382716049382713,
+    "femininePercentage": 1.9753086419753085,
+    "totalCount": 405
+  },
+  {
+    "ending": "d",
+    "mainGender": "m",
+    "masculinePercentage": 97.44408945686901,
+    "epicenePercentage": 1.3578274760383386,
+    "femininePercentage": 1.1980830670926517,
+    "totalCount": 1252
+  },
+  {
+    "ending": "un",
+    "mainGender": "m",
+    "masculinePercentage": 97.36842105263158,
+    "epicenePercentage": 2.6315789473684212,
+    "femininePercentage": 0.0,
+    "totalCount": 76
+  },
+  {
+    "ending": "t",
+    "mainGender": "m",
+    "masculinePercentage": 97.35604217356043,
+    "epicenePercentage": 0.7785888077858881,
+    "femininePercentage": 1.8653690186536902,
+    "totalCount": 6165
+  },
+  {
+    "ending": "ton",
+    "mainGender": "m",
+    "masculinePercentage": 97.3529411764706,
+    "epicenePercentage": 1.1764705882352942,
+    "femininePercentage": 1.4705882352941178,
+    "totalCount": 340
+  },
+  {
+    "ending": "s",
+    "mainGender": "m",
+    "masculinePercentage": 97.35058909712471,
+    "epicenePercentage": 0.3113363042549295,
+    "femininePercentage": 2.338074598620353,
+    "totalCount": 16381
+  },
+  {
+    "ending": "don",
+    "mainGender": "m",
+    "masculinePercentage": 97.29729729729729,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 2.7027027027027026,
+    "totalCount": 111
+  },
+  {
+    "ending": "ux",
+    "mainGender": "m",
+    "masculinePercentage": 97.27047146401985,
+    "epicenePercentage": 0.9925558312655087,
+    "femininePercentage": 1.7369727047146402,
+    "totalCount": 403
+  },
+  {
+    "ending": "aison",
+    "mainGender": "f",
+    "masculinePercentage": 3.0927835051546393,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 96.90721649484536,
+    "totalCount": 97
+  },
+  {
+    "ending": "ture",
+    "mainGender": "f",
+    "masculinePercentage": 3.2051282051282053,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 96.7948717948718,
+    "totalCount": 312
+  },
+  {
+    "ending": "ramme",
+    "mainGender": "m",
+    "masculinePercentage": 96.73913043478261,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 3.260869565217391,
+    "totalCount": 92
+  },
+  {
+    "ending": "rice",
+    "mainGender": "f",
+    "masculinePercentage": 2.7210884353741496,
+    "epicenePercentage": 0.6802721088435374,
+    "femininePercentage": 96.59863945578232,
+    "totalCount": 147
+  },
+  {
+    "ending": "ie",
+    "mainGender": "f",
+    "masculinePercentage": 3.0598958333333335,
+    "epicenePercentage": 0.4774305555555556,
+    "femininePercentage": 96.46267361111111,
+    "totalCount": 4608
+  },
+  {
+    "ending": "scope",
+    "mainGender": "m",
+    "masculinePercentage": 96.29629629629629,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 3.7037037037037037,
+    "totalCount": 81
+  },
+  {
+    "ending": "lion",
+    "mainGender": "m",
+    "masculinePercentage": 96.29629629629629,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 3.7037037037037037,
+    "totalCount": 54
+  },
+  {
+    "ending": "sion",
+    "mainGender": "f",
+    "masculinePercentage": 3.3057851239669422,
+    "epicenePercentage": 0.4132231404958678,
+    "femininePercentage": 96.28099173553719,
+    "totalCount": 242
+  },
+  {
+    "ending": "hon",
+    "mainGender": "m",
+    "masculinePercentage": 95.89041095890411,
+    "epicenePercentage": 0.684931506849315,
+    "femininePercentage": 3.4246575342465753,
+    "totalCount": 146
+  },
+  {
+    "ending": "l",
+    "mainGender": "m",
+    "masculinePercentage": 95.74726609963548,
+    "epicenePercentage": 1.5795868772782502,
+    "femininePercentage": 2.67314702308627,
+    "totalCount": 1646
+  },
+  {
+    "ending": "r",
+    "mainGender": "m",
+    "masculinePercentage": 95.28868360277136,
+    "epicenePercentage": 1.7551963048498844,
+    "femininePercentage": 2.956120092378753,
+    "totalCount": 6495
+  },
+  {
+    "ending": "sure",
+    "mainGender": "f",
+    "masculinePercentage": 4.761904761904762,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 95.23809523809524,
+    "totalCount": 105
+  },
+  {
+    "ending": "ude",
+    "mainGender": "f",
+    "masculinePercentage": 4.433497536945813,
+    "epicenePercentage": 0.49261083743842365,
+    "femininePercentage": 95.07389162561576,
+    "totalCount": 203
+  },
+  {
+    "ending": "an",
+    "mainGender": "m",
+    "masculinePercentage": 95.0354609929078,
+    "epicenePercentage": 2.0094562647754137,
+    "femininePercentage": 2.955082742316785,
+    "totalCount": 846
+  },
+  {
+    "ending": "g",
+    "mainGender": "m",
+    "masculinePercentage": 94.9367088607595,
+    "epicenePercentage": 2.0569620253164556,
+    "femininePercentage": 3.0063291139240507,
+    "totalCount": 632
+  },
+  {
+    "ending": "telle",
+    "mainGender": "f",
+    "masculinePercentage": 5.2631578947368425,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 94.73684210526316,
+    "totalCount": 76
+  },
+  {
+    "ending": "nce",
+    "mainGender": "f",
+    "masculinePercentage": 4.139072847682119,
+    "epicenePercentage": 1.1589403973509933,
+    "femininePercentage": 94.70198675496688,
+    "totalCount": 604
+  },
+  {
+    "ending": "yme",
+    "mainGender": "m",
+    "masculinePercentage": 94.6236559139785,
+    "epicenePercentage": 3.225806451612903,
+    "femininePercentage": 2.150537634408602,
+    "totalCount": 93
+  },
+  {
+    "ending": "u",
+    "mainGender": "m",
+    "masculinePercentage": 94.46212603437301,
+    "epicenePercentage": 1.9096117122851686,
+    "femininePercentage": 3.6282622533418203,
+    "totalCount": 1571
+  },
+  {
+    "ending": "con",
+    "mainGender": "m",
+    "masculinePercentage": 94.44444444444444,
+    "epicenePercentage": 5.555555555555555,
+    "femininePercentage": 0.0,
+    "totalCount": 54
+  },
+  {
+    "ending": "gite",
+    "mainGender": "f",
+    "masculinePercentage": 5.660377358490566,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 94.33962264150944,
+    "totalCount": 53
+  },
+  {
+    "ending": "pode",
+    "mainGender": "m",
+    "masculinePercentage": 94.33962264150944,
+    "epicenePercentage": 3.7735849056603774,
+    "femininePercentage": 1.8867924528301887,
+    "totalCount": 53
+  },
+  {
+    "ending": "arde",
+    "mainGender": "f",
+    "masculinePercentage": 3.9285714285714284,
+    "epicenePercentage": 1.7857142857142858,
+    "femininePercentage": 94.28571428571429,
+    "totalCount": 280
+  },
+  {
+    "ending": "m",
+    "mainGender": "m",
+    "masculinePercentage": 94.21487603305785,
+    "epicenePercentage": 1.4167650531286895,
+    "femininePercentage": 4.368358913813459,
+    "totalCount": 847
+  },
+  {
+    "ending": "ine",
+    "mainGender": "f",
+    "masculinePercentage": 5.2194543297746145,
+    "epicenePercentage": 0.6326611308817714,
+    "femininePercentage": 94.14788453934361,
+    "totalCount": 2529
+  },
+  {
+    "ending": "ns",
+    "mainGender": "m",
+    "masculinePercentage": 93.67816091954023,
+    "epicenePercentage": 2.8735632183908044,
+    "femininePercentage": 3.4482758620689653,
+    "totalCount": 174
+  },
+  {
+    "ending": "leuse",
+    "mainGender": "f",
+    "masculinePercentage": 6.329113924050633,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 93.67088607594937,
+    "totalCount": 79
+  },
+  {
+    "ending": "if",
+    "mainGender": "m",
+    "masculinePercentage": 93.62745098039215,
+    "epicenePercentage": 1.4705882352941178,
+    "femininePercentage": 4.901960784313726,
+    "totalCount": 204
+  },
+  {
+    "ending": "go",
+    "mainGender": "m",
+    "masculinePercentage": 93.61702127659575,
+    "epicenePercentage": 2.127659574468085,
+    "femininePercentage": 4.25531914893617,
+    "totalCount": 94
+  },
+  {
+    "ending": "set",
+    "mainGender": "m",
+    "masculinePercentage": 93.33333333333333,
+    "epicenePercentage": 1.6666666666666667,
+    "femininePercentage": 5.0,
+    "totalCount": 60
+  },
+  {
+    "ending": "x",
+    "mainGender": "m",
+    "masculinePercentage": 93.21533923303835,
+    "epicenePercentage": 2.2123893805309733,
+    "femininePercentage": 4.572271386430678,
+    "totalCount": 678
+  },
+  {
+    "ending": "ome",
+    "mainGender": "m",
+    "masculinePercentage": 93.20754716981132,
+    "epicenePercentage": 2.641509433962264,
+    "femininePercentage": 4.150943396226415,
+    "totalCount": 265
+  },
+  {
+    "ending": "tte",
+    "mainGender": "f",
+    "masculinePercentage": 6.086956521739131,
+    "epicenePercentage": 0.7453416149068323,
+    "femininePercentage": 93.16770186335404,
+    "totalCount": 1610
+  },
+  {
+    "ending": "ge",
+    "mainGender": "m",
+    "masculinePercentage": 92.58524980174465,
+    "epicenePercentage": 1.1498810467882632,
+    "femininePercentage": 6.26486915146709,
+    "totalCount": 2522
+  },
+  {
+    "ending": "rs",
+    "mainGender": "m",
+    "masculinePercentage": 92.45283018867924,
+    "epicenePercentage": 1.8867924528301887,
+    "femininePercentage": 5.660377358490566,
+    "totalCount": 106
+  },
+  {
+    "ending": "ama",
+    "mainGender": "m",
+    "masculinePercentage": 92.45283018867924,
+    "epicenePercentage": 3.7735849056603774,
+    "femininePercentage": 3.7735849056603774,
+    "totalCount": 53
+  },
+  {
+    "ending": "ort",
+    "mainGender": "m",
+    "masculinePercentage": 92.40506329113924,
+    "epicenePercentage": 3.7974683544303796,
+    "femininePercentage": 3.7974683544303796,
+    "totalCount": 79
+  },
+  {
+    "ending": "heur",
+    "mainGender": "m",
+    "masculinePercentage": 92.3076923076923,
+    "epicenePercentage": 5.4945054945054945,
+    "femininePercentage": 2.197802197802198,
+    "totalCount": 91
+  },
+  {
+    "ending": "ande",
+    "mainGender": "f",
+    "masculinePercentage": 7.03125,
+    "epicenePercentage": 0.78125,
+    "femininePercentage": 92.1875,
+    "totalCount": 128
+  },
+  {
+    "ending": "cope",
+    "mainGender": "m",
+    "masculinePercentage": 92.13483146067416,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 7.865168539325842,
+    "totalCount": 89
+  },
+  {
+    "ending": "i",
+    "mainGender": "m",
+    "masculinePercentage": 91.42441860465117,
+    "epicenePercentage": 4.142441860465116,
+    "femininePercentage": 4.433139534883721,
+    "totalCount": 1376
+  },
+  {
+    "ending": "die",
+    "mainGender": "f",
+    "masculinePercentage": 7.608695652173913,
+    "epicenePercentage": 1.0869565217391304,
+    "femininePercentage": 91.30434782608695,
+    "totalCount": 92
+  },
+  {
+    "ending": "no",
+    "mainGender": "m",
+    "masculinePercentage": 91.2,
+    "epicenePercentage": 4.8,
+    "femininePercentage": 4.0,
+    "totalCount": 125
+  },
+  {
+    "ending": "k",
+    "mainGender": "m",
+    "masculinePercentage": 90.98901098901099,
+    "epicenePercentage": 5.274725274725275,
+    "femininePercentage": 3.7362637362637363,
+    "totalCount": 455
+  },
+  {
+    "ending": "elle",
+    "mainGender": "f",
+    "masculinePercentage": 8.116883116883116,
+    "epicenePercentage": 0.974025974025974,
+    "femininePercentage": 90.9090909090909,
+    "totalCount": 616
+  },
+  {
+    "ending": "c",
+    "mainGender": "m",
+    "masculinePercentage": 90.89068825910931,
+    "epicenePercentage": 3.8461538461538463,
+    "femininePercentage": 5.2631578947368425,
+    "totalCount": 494
+  },
+  {
+    "ending": "lure",
+    "mainGender": "f",
+    "masculinePercentage": 9.166666666666666,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 90.83333333333333,
+    "totalCount": 120
+  },
+  {
+    "ending": "me",
+    "mainGender": "m",
+    "masculinePercentage": 90.8055672711936,
+    "epicenePercentage": 1.4339940953184311,
+    "femininePercentage": 7.76043863348798,
+    "totalCount": 2371
+  },
+  {
+    "ending": "rou",
+    "mainGender": "m",
+    "masculinePercentage": 90.74074074074075,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 9.25925925925926,
+    "totalCount": 54
+  },
+  {
+    "ending": "aille",
+    "mainGender": "f",
+    "masculinePercentage": 8.333333333333334,
+    "epicenePercentage": 1.1111111111111112,
+    "femininePercentage": 90.55555555555556,
+    "totalCount": 180
+  },
+  {
+    "ending": "st",
+    "mainGender": "m",
+    "masculinePercentage": 90.51724137931035,
+    "epicenePercentage": 0.8620689655172413,
+    "femininePercentage": 8.620689655172415,
+    "totalCount": 116
+  },
+  {
+    "ending": "ne",
+    "mainGender": "f",
+    "masculinePercentage": 7.866752081998719,
+    "epicenePercentage": 1.9859064702114029,
+    "femininePercentage": 90.14734144778988,
+    "totalCount": 7805
+  },
+  {
+    "ending": "z",
+    "mainGender": "m",
+    "masculinePercentage": 90.14084507042253,
+    "epicenePercentage": 2.112676056338028,
+    "femininePercentage": 7.746478873239437,
+    "totalCount": 142
+  },
+  {
+    "ending": "veur",
+    "mainGender": "m",
+    "masculinePercentage": 90.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 10.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "tite",
+    "mainGender": "f",
+    "masculinePercentage": 10.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 90.0,
+    "totalCount": 80
+  },
+  {
+    "ending": "uit",
+    "mainGender": "m",
+    "masculinePercentage": 89.39393939393939,
+    "epicenePercentage": 4.545454545454546,
+    "femininePercentage": 6.0606060606060606,
+    "totalCount": 66
+  },
+  {
+    "ending": "ion",
+    "mainGender": "f",
+    "masculinePercentage": 10.337552742616033,
+    "epicenePercentage": 0.31645569620253167,
+    "femininePercentage": 89.34599156118144,
+    "totalCount": 2844
+  },
+  {
+    "ending": "ex",
+    "mainGender": "m",
+    "masculinePercentage": 89.33333333333333,
+    "epicenePercentage": 4.0,
+    "femininePercentage": 6.666666666666667,
+    "totalCount": 75
+  },
+  {
+    "ending": "ar",
+    "mainGender": "m",
+    "masculinePercentage": 89.1156462585034,
+    "epicenePercentage": 4.421768707482993,
+    "femininePercentage": 6.462585034013605,
+    "totalCount": 294
+  },
+  {
+    "ending": "ss",
+    "mainGender": "m",
+    "masculinePercentage": 89.02439024390245,
+    "epicenePercentage": 2.4390243902439024,
+    "femininePercentage": 8.536585365853659,
+    "totalCount": 82
+  },
+  {
+    "ending": "am",
+    "mainGender": "m",
+    "masculinePercentage": 88.9908256880734,
+    "epicenePercentage": 2.7522935779816513,
+    "femininePercentage": 8.256880733944953,
+    "totalCount": 109
+  },
+  {
+    "ending": "reur",
+    "mainGender": "m",
+    "masculinePercentage": 88.98305084745763,
+    "epicenePercentage": 2.542372881355932,
+    "femininePercentage": 8.474576271186441,
+    "totalCount": 118
+  },
+  {
+    "ending": "y",
+    "mainGender": "m",
+    "masculinePercentage": 88.95348837209302,
+    "epicenePercentage": 4.651162790697675,
+    "femininePercentage": 6.395348837209302,
+    "totalCount": 344
+  },
+  {
+    "ending": "ose",
+    "mainGender": "f",
+    "masculinePercentage": 10.53864168618267,
+    "epicenePercentage": 0.702576112412178,
+    "femininePercentage": 88.75878220140515,
+    "totalCount": 427
+  },
+  {
+    "ending": "ade",
+    "mainGender": "f",
+    "masculinePercentage": 9.603340292275574,
+    "epicenePercentage": 1.6701461377870563,
+    "femininePercentage": 88.72651356993737,
+    "totalCount": 479
+  },
+  {
+    "ending": "b",
+    "mainGender": "m",
+    "masculinePercentage": 88.46153846153847,
+    "epicenePercentage": 5.128205128205129,
+    "femininePercentage": 6.410256410256411,
+    "totalCount": 156
+  },
+  {
+    "ending": "ay",
+    "mainGender": "m",
+    "masculinePercentage": 88.46153846153847,
+    "epicenePercentage": 10.256410256410257,
+    "femininePercentage": 1.2820512820512822,
+    "totalCount": 78
+  },
+  {
+    "ending": "hage",
+    "mainGender": "m",
+    "masculinePercentage": 88.23529411764706,
+    "epicenePercentage": 9.803921568627452,
+    "femininePercentage": 1.9607843137254901,
+    "totalCount": 102
+  },
+  {
+    "ending": "th",
+    "mainGender": "m",
+    "masculinePercentage": 88.0,
+    "epicenePercentage": 6.0,
+    "femininePercentage": 6.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "our",
+    "mainGender": "m",
+    "masculinePercentage": 88.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 12.0,
+    "totalCount": 100
+  },
+  {
+    "ending": "lite",
+    "mainGender": "f",
+    "masculinePercentage": 10.55045871559633,
+    "epicenePercentage": 1.834862385321101,
+    "femininePercentage": 87.61467889908256,
+    "totalCount": 218
+  },
+  {
+    "ending": "ong",
+    "mainGender": "m",
+    "masculinePercentage": 87.5,
+    "epicenePercentage": 5.357142857142857,
+    "femininePercentage": 7.142857142857143,
+    "totalCount": 56
+  },
+  {
+    "ending": "ter",
+    "mainGender": "m",
+    "masculinePercentage": 87.5,
+    "epicenePercentage": 7.5,
+    "femininePercentage": 5.0,
+    "totalCount": 120
+  },
+  {
+    "ending": "pette",
+    "mainGender": "f",
+    "masculinePercentage": 8.928571428571429,
+    "epicenePercentage": 3.5714285714285716,
+    "femininePercentage": 87.5,
+    "totalCount": 56
+  },
+  {
+    "ending": "nite",
+    "mainGender": "f",
+    "masculinePercentage": 10.548523206751055,
+    "epicenePercentage": 2.109704641350211,
+    "femininePercentage": 87.34177215189874,
+    "totalCount": 237
+  },
+  {
+    "ending": "f",
+    "mainGender": "m",
+    "masculinePercentage": 87.32394366197182,
+    "epicenePercentage": 3.2863849765258215,
+    "femininePercentage": 9.389671361502348,
+    "totalCount": 426
+  },
+  {
+    "ending": "peur",
+    "mainGender": "m",
+    "masculinePercentage": 87.3015873015873,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 12.698412698412698,
+    "totalCount": 63
+  },
+  {
+    "ending": "rde",
+    "mainGender": "f",
+    "masculinePercentage": 10.465116279069768,
+    "epicenePercentage": 2.3255813953488373,
+    "femininePercentage": 87.20930232558139,
+    "totalCount": 344
+  },
+  {
+    "ending": "ak",
+    "mainGender": "m",
+    "masculinePercentage": 87.17948717948718,
+    "epicenePercentage": 8.974358974358974,
+    "femininePercentage": 3.8461538461538463,
+    "totalCount": 78
+  },
+  {
+    "ending": "yle",
+    "mainGender": "m",
+    "masculinePercentage": 87.17948717948718,
+    "epicenePercentage": 2.5641025641025643,
+    "femininePercentage": 10.256410256410257,
+    "totalCount": 78
+  },
+  {
+    "ending": "olle",
+    "mainGender": "f",
+    "masculinePercentage": 10.891089108910892,
+    "epicenePercentage": 1.9801980198019802,
+    "femininePercentage": 87.12871287128714,
+    "totalCount": 101
+  },
+  {
+    "ending": "lotte",
+    "mainGender": "f",
+    "masculinePercentage": 7.894736842105263,
+    "epicenePercentage": 5.2631578947368425,
+    "femininePercentage": 86.84210526315789,
+    "totalCount": 76
+  },
+  {
+    "ending": "meur",
+    "mainGender": "m",
+    "masculinePercentage": 86.44067796610169,
+    "epicenePercentage": 1.694915254237288,
+    "femininePercentage": 11.864406779661017,
+    "totalCount": 59
+  },
+  {
+    "ending": "tis",
+    "mainGender": "m",
+    "masculinePercentage": 86.41975308641975,
+    "epicenePercentage": 1.2345679012345678,
+    "femininePercentage": 12.345679012345679,
+    "totalCount": 81
+  },
+  {
+    "ending": "ger",
+    "mainGender": "m",
+    "masculinePercentage": 86.3013698630137,
+    "epicenePercentage": 12.32876712328767,
+    "femininePercentage": 1.36986301369863,
+    "totalCount": 73
+  },
+  {
+    "ending": "lis",
+    "mainGender": "m",
+    "masculinePercentage": 86.3013698630137,
+    "epicenePercentage": 4.109589041095891,
+    "femininePercentage": 9.58904109589041,
+    "totalCount": 73
+  },
+  {
+    "ending": "ch",
+    "mainGender": "m",
+    "masculinePercentage": 86.02941176470588,
+    "epicenePercentage": 1.4705882352941178,
+    "femininePercentage": 12.5,
+    "totalCount": 136
+  },
+  {
+    "ending": "lote",
+    "mainGender": "f",
+    "masculinePercentage": 6.0,
+    "epicenePercentage": 8.0,
+    "femininePercentage": 86.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "o",
+    "mainGender": "m",
+    "masculinePercentage": 85.45016077170418,
+    "epicenePercentage": 5.787781350482315,
+    "femininePercentage": 8.762057877813504,
+    "totalCount": 1244
+  },
+  {
+    "ending": "itre",
+    "mainGender": "m",
+    "masculinePercentage": 85.18518518518519,
+    "epicenePercentage": 3.7037037037037037,
+    "femininePercentage": 11.11111111111111,
+    "totalCount": 54
+  },
+  {
+    "ending": "cite",
+    "mainGender": "f",
+    "masculinePercentage": 15.254237288135593,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 84.7457627118644,
+    "totalCount": 59
+  },
+  {
+    "ending": "w",
+    "mainGender": "m",
+    "masculinePercentage": 84.61538461538461,
+    "epicenePercentage": 5.769230769230769,
+    "femininePercentage": 9.615384615384615,
+    "totalCount": 52
+  },
+  {
+    "ending": "do",
+    "mainGender": "m",
+    "masculinePercentage": 84.61538461538461,
+    "epicenePercentage": 1.9230769230769231,
+    "femininePercentage": 13.461538461538462,
+    "totalCount": 104
+  },
+  {
+    "ending": "lo",
+    "mainGender": "m",
+    "masculinePercentage": 84.54545454545455,
+    "epicenePercentage": 10.0,
+    "femininePercentage": 5.454545454545454,
+    "totalCount": 110
+  },
+  {
+    "ending": "stre",
+    "mainGender": "m",
+    "masculinePercentage": 84.44444444444444,
+    "epicenePercentage": 8.88888888888889,
+    "femininePercentage": 6.666666666666667,
+    "totalCount": 90
+  },
+  {
+    "ending": "ase",
+    "mainGender": "f",
+    "masculinePercentage": 15.028901734104046,
+    "epicenePercentage": 0.5780346820809249,
+    "femininePercentage": 84.39306358381504,
+    "totalCount": 173
+  },
+  {
+    "ending": "om",
+    "mainGender": "m",
+    "masculinePercentage": 84.0,
+    "epicenePercentage": 4.0,
+    "femininePercentage": 12.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "rote",
+    "mainGender": "f",
+    "masculinePercentage": 10.0,
+    "epicenePercentage": 6.0,
+    "femininePercentage": 84.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "man",
+    "mainGender": "m",
+    "masculinePercentage": 83.92857142857143,
+    "epicenePercentage": 2.6785714285714284,
+    "femininePercentage": 13.392857142857142,
+    "totalCount": 112
+  },
+  {
+    "ending": "oi",
+    "mainGender": "m",
+    "masculinePercentage": 83.82352941176471,
+    "epicenePercentage": 4.411764705882353,
+    "femininePercentage": 11.764705882352942,
+    "totalCount": 68
+  },
+  {
+    "ending": "p",
+    "mainGender": "m",
+    "masculinePercentage": 83.64485981308411,
+    "epicenePercentage": 3.2710280373831777,
+    "femininePercentage": 13.08411214953271,
+    "totalCount": 214
+  },
+  {
+    "ending": "ce",
+    "mainGender": "f",
+    "masculinePercentage": 14.645974781765277,
+    "epicenePercentage": 1.9398642095053347,
+    "femininePercentage": 83.4141610087294,
+    "totalCount": 1031
+  },
+  {
+    "ending": "si",
+    "mainGender": "m",
+    "masculinePercentage": 83.33333333333333,
+    "epicenePercentage": 9.25925925925926,
+    "femininePercentage": 7.407407407407407,
+    "totalCount": 54
+  },
+  {
+    "ending": "lane",
+    "mainGender": "f",
+    "masculinePercentage": 16.883116883116884,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 83.11688311688312,
+    "totalCount": 77
+  },
+  {
+    "ending": "ix",
+    "mainGender": "m",
+    "masculinePercentage": 83.09859154929578,
+    "epicenePercentage": 2.816901408450704,
+    "femininePercentage": 14.084507042253522,
+    "totalCount": 71
+  },
+  {
+    "ending": "lle",
+    "mainGender": "f",
+    "masculinePercentage": 15.166548547129695,
+    "epicenePercentage": 1.7717930545712262,
+    "femininePercentage": 83.06165839829907,
+    "totalCount": 1411
+  },
+  {
+    "ending": "iole",
+    "mainGender": "f",
+    "masculinePercentage": 13.559322033898304,
+    "epicenePercentage": 3.389830508474576,
+    "femininePercentage": 83.05084745762711,
+    "totalCount": 59
+  },
+  {
+    "ending": "anne",
+    "mainGender": "f",
+    "masculinePercentage": 16.949152542372882,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 83.05084745762711,
+    "totalCount": 59
+  },
+  {
+    "ending": "ma",
+    "mainGender": "m",
+    "masculinePercentage": 82.84023668639053,
+    "epicenePercentage": 4.733727810650888,
+    "femininePercentage": 12.42603550295858,
+    "totalCount": 169
+  },
+  {
+    "ending": "ive",
+    "mainGender": "f",
+    "masculinePercentage": 13.75,
+    "epicenePercentage": 3.75,
+    "femininePercentage": 82.5,
+    "totalCount": 80
+  },
+  {
+    "ending": "sson",
+    "mainGender": "m",
+    "masculinePercentage": 82.27848101265823,
+    "epicenePercentage": 1.2658227848101267,
+    "femininePercentage": 16.455696202531644,
+    "totalCount": 79
+  },
+  {
+    "ending": "role",
+    "mainGender": "f",
+    "masculinePercentage": 16.071428571428573,
+    "epicenePercentage": 1.7857142857142858,
+    "femininePercentage": 82.14285714285714,
+    "totalCount": 56
+  },
+  {
+    "ending": "mme",
+    "mainGender": "m",
+    "masculinePercentage": 81.81818181818181,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 18.181818181818183,
+    "totalCount": 154
+  },
+  {
+    "ending": "deur",
+    "mainGender": "m",
+    "masculinePercentage": 81.81818181818181,
+    "epicenePercentage": 1.6528925619834711,
+    "femininePercentage": 16.52892561983471,
+    "totalCount": 121
+  },
+  {
+    "ending": "h",
+    "mainGender": "m",
+    "masculinePercentage": 81.53034300791556,
+    "epicenePercentage": 4.221635883905013,
+    "femininePercentage": 14.248021108179419,
+    "totalCount": 379
+  },
+  {
+    "ending": "hore",
+    "mainGender": "m",
+    "masculinePercentage": 81.31868131868131,
+    "epicenePercentage": 6.593406593406593,
+    "femininePercentage": 12.087912087912088,
+    "totalCount": 91
+  },
+  {
+    "ending": "asse",
+    "mainGender": "f",
+    "masculinePercentage": 15.981735159817351,
+    "epicenePercentage": 2.73972602739726,
+    "femininePercentage": 81.27853881278538,
+    "totalCount": 219
+  },
+  {
+    "ending": "ante",
+    "mainGender": "f",
+    "masculinePercentage": 15.337423312883436,
+    "epicenePercentage": 3.6809815950920246,
+    "femininePercentage": 80.98159509202453,
+    "totalCount": 163
+  },
+  {
+    "ending": "ite",
+    "mainGender": "f",
+    "masculinePercentage": 15.126050420168067,
+    "epicenePercentage": 3.972498090145149,
+    "femininePercentage": 80.90145148968678,
+    "totalCount": 1309
+  },
+  {
+    "ending": "S",
+    "mainGender": "m",
+    "masculinePercentage": 80.53097345132744,
+    "epicenePercentage": 0.8849557522123894,
+    "femininePercentage": 18.58407079646018,
+    "totalCount": 113
+  },
+  {
+    "ending": "ure",
+    "mainGender": "f",
+    "masculinePercentage": 18.768046198267566,
+    "epicenePercentage": 0.7699711260827719,
+    "femininePercentage": 80.46198267564966,
+    "totalCount": 1039
+  },
+  {
+    "ending": "nde",
+    "mainGender": "f",
+    "masculinePercentage": 19.02654867256637,
+    "epicenePercentage": 0.8849557522123894,
+    "femininePercentage": 80.08849557522124,
+    "totalCount": 226
+  },
+  {
+    "ending": "ente",
+    "mainGender": "f",
+    "masculinePercentage": 17.56756756756757,
+    "epicenePercentage": 2.7027027027027026,
+    "femininePercentage": 79.72972972972973,
+    "totalCount": 74
+  },
+  {
+    "ending": "oc",
+    "mainGender": "m",
+    "masculinePercentage": 79.51807228915662,
+    "epicenePercentage": 12.048192771084338,
+    "femininePercentage": 8.433734939759036,
+    "totalCount": 83
+  },
+  {
+    "ending": "ple",
+    "mainGender": "m",
+    "masculinePercentage": 79.24528301886792,
+    "epicenePercentage": 9.433962264150944,
+    "femininePercentage": 11.320754716981131,
+    "totalCount": 53
+  },
+  {
+    "ending": "ille",
+    "mainGender": "f",
+    "masculinePercentage": 18.360655737704917,
+    "epicenePercentage": 2.459016393442623,
+    "femininePercentage": 79.18032786885246,
+    "totalCount": 610
+  },
+  {
+    "ending": "bre",
+    "mainGender": "m",
+    "masculinePercentage": 78.66666666666667,
+    "epicenePercentage": 1.3333333333333333,
+    "femininePercentage": 20.0,
+    "totalCount": 75
+  },
+  {
+    "ending": "C",
+    "mainGender": "m",
+    "masculinePercentage": 78.57142857142857,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 21.428571428571427,
+    "totalCount": 98
+  },
+  {
+    "ending": "n",
+    "mainGender": "m",
+    "masculinePercentage": 78.36221438429689,
+    "epicenePercentage": 0.5367274957828554,
+    "femininePercentage": 21.101058119920257,
+    "totalCount": 13042
+  },
+  {
+    "ending": "ris",
+    "mainGender": "m",
+    "masculinePercentage": 77.94117647058823,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 22.058823529411764,
+    "totalCount": 68
+  },
+  {
+    "ending": "giste",
+    "mainGender": "e",
+    "masculinePercentage": 22.137404580152673,
+    "epicenePercentage": 77.86259541984732,
+    "femininePercentage": 0.0,
+    "totalCount": 131
+  },
+  {
+    "ending": "tre",
+    "mainGender": "m",
+    "masculinePercentage": 77.85977859778598,
+    "epicenePercentage": 7.749077490774908,
+    "femininePercentage": 14.391143911439114,
+    "totalCount": 271
+  },
+  {
+    "ending": "sse",
+    "mainGender": "f",
+    "masculinePercentage": 19.96927803379416,
+    "epicenePercentage": 2.61136712749616,
+    "femininePercentage": 77.41935483870968,
+    "totalCount": 651
+  },
+  {
+    "ending": "ison",
+    "mainGender": "f",
+    "masculinePercentage": 22.727272727272727,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 77.27272727272727,
+    "totalCount": 132
+  },
+  {
+    "ending": "ode",
+    "mainGender": "m",
+    "masculinePercentage": 77.16535433070867,
+    "epicenePercentage": 2.3622047244094486,
+    "femininePercentage": 20.47244094488189,
+    "totalCount": 127
+  },
+  {
+    "ending": "cide",
+    "mainGender": "m",
+    "masculinePercentage": 77.08333333333333,
+    "epicenePercentage": 15.625,
+    "femininePercentage": 7.291666666666667,
+    "totalCount": 96
+  },
+  {
+    "ending": "ga",
+    "mainGender": "m",
+    "masculinePercentage": 76.66666666666667,
+    "epicenePercentage": 4.444444444444445,
+    "femininePercentage": 18.88888888888889,
+    "totalCount": 90
+  },
+  {
+    "ending": "ore",
+    "mainGender": "m",
+    "masculinePercentage": 76.59574468085107,
+    "epicenePercentage": 5.957446808510638,
+    "femininePercentage": 17.4468085106383,
+    "totalCount": 235
+  },
+  {
+    "ending": "mate",
+    "mainGender": "m",
+    "masculinePercentage": 76.0,
+    "epicenePercentage": 16.0,
+    "femininePercentage": 8.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "hile",
+    "mainGender": "e",
+    "masculinePercentage": 20.0,
+    "epicenePercentage": 76.0,
+    "femininePercentage": 4.0,
+    "totalCount": 125
+  },
+  {
+    "ending": "ice",
+    "mainGender": "f",
+    "masculinePercentage": 22.46696035242291,
+    "epicenePercentage": 1.7621145374449338,
+    "femininePercentage": 75.77092511013215,
+    "totalCount": 227
+  },
+  {
+    "ending": "P",
+    "mainGender": "m",
+    "masculinePercentage": 75.71428571428571,
+    "epicenePercentage": 4.285714285714286,
+    "femininePercentage": 20.0,
+    "totalCount": 140
+  },
+  {
+    "ending": "ope",
+    "mainGender": "m",
+    "masculinePercentage": 75.64102564102564,
+    "epicenePercentage": 7.6923076923076925,
+    "femininePercentage": 16.666666666666668,
+    "totalCount": 156
+  },
+  {
+    "ending": "io",
+    "mainGender": "m",
+    "masculinePercentage": 75.34246575342466,
+    "epicenePercentage": 5.47945205479452,
+    "femininePercentage": 19.17808219178082,
+    "totalCount": 73
+  },
+  {
+    "ending": "uf",
+    "mainGender": "m",
+    "masculinePercentage": 75.0,
+    "epicenePercentage": 8.928571428571429,
+    "femininePercentage": 16.071428571428573,
+    "totalCount": 56
+  },
+  {
+    "ending": "cle",
+    "mainGender": "m",
+    "masculinePercentage": 75.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 25.0,
+    "totalCount": 76
+  },
+  {
+    "ending": "ara",
+    "mainGender": "m",
+    "masculinePercentage": 74.60317460317461,
+    "epicenePercentage": 14.285714285714286,
+    "femininePercentage": 11.11111111111111,
+    "totalCount": 63
+  },
+  {
+    "ending": "op",
+    "mainGender": "m",
+    "masculinePercentage": 74.57627118644068,
+    "epicenePercentage": 5.084745762711864,
+    "femininePercentage": 20.338983050847457,
+    "totalCount": 59
+  },
+  {
+    "ending": "ride",
+    "mainGender": "m",
+    "masculinePercentage": 74.0,
+    "epicenePercentage": 6.0,
+    "femininePercentage": 20.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "aphe",
+    "mainGender": "m",
+    "masculinePercentage": 73.52941176470588,
+    "epicenePercentage": 22.941176470588236,
+    "femininePercentage": 3.5294117647058822,
+    "totalCount": 170
+  },
+  {
+    "ending": "site",
+    "mainGender": "f",
+    "masculinePercentage": 25.301204819277107,
+    "epicenePercentage": 1.2048192771084338,
+    "femininePercentage": 73.49397590361446,
+    "totalCount": 83
+  },
+  {
+    "ending": "ke",
+    "mainGender": "m",
+    "masculinePercentage": 73.13432835820896,
+    "epicenePercentage": 4.477611940298507,
+    "femininePercentage": 22.388059701492537,
+    "totalCount": 67
+  },
+  {
+    "ending": "res",
+    "mainGender": "m",
+    "masculinePercentage": 73.07692307692308,
+    "epicenePercentage": 1.2820512820512822,
+    "femininePercentage": 25.641025641025642,
+    "totalCount": 78
+  },
+  {
+    "ending": "aste",
+    "mainGender": "m",
+    "masculinePercentage": 72.72727272727273,
+    "epicenePercentage": 13.636363636363637,
+    "femininePercentage": 13.636363636363637,
+    "totalCount": 66
+  },
+  {
+    "ending": "oute",
+    "mainGender": "f",
+    "masculinePercentage": 19.607843137254903,
+    "epicenePercentage": 7.8431372549019605,
+    "femininePercentage": 72.54901960784314,
+    "totalCount": 51
+  },
+  {
+    "ending": "logue",
+    "mainGender": "e",
+    "masculinePercentage": 26.767676767676768,
+    "epicenePercentage": 72.22222222222223,
+    "femininePercentage": 1.0101010101010102,
+    "totalCount": 198
+  },
+  {
+    "ending": "liste",
+    "mainGender": "e",
+    "masculinePercentage": 24.528301886792452,
+    "epicenePercentage": 72.16981132075472,
+    "femininePercentage": 3.30188679245283,
+    "totalCount": 212
+  },
+  {
+    "ending": "T",
+    "mainGender": "m",
+    "masculinePercentage": 72.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 28.0,
+    "totalCount": 75
+  },
+  {
+    "ending": "des",
+    "mainGender": "m",
+    "masculinePercentage": 71.875,
+    "epicenePercentage": 3.125,
+    "femininePercentage": 25.0,
+    "totalCount": 64
+  },
+  {
+    "ending": "e",
+    "mainGender": "f",
+    "masculinePercentage": 23.19735348989287,
+    "epicenePercentage": 4.935279749197007,
+    "femininePercentage": 71.86736676091012,
+    "totalCount": 51993
+  },
+  {
+    "ending": "pa",
+    "mainGender": "m",
+    "masculinePercentage": 71.69811320754717,
+    "epicenePercentage": 1.8867924528301887,
+    "femininePercentage": 26.41509433962264,
+    "totalCount": 53
+  },
+  {
+    "ending": "phe",
+    "mainGender": "m",
+    "masculinePercentage": 71.53846153846153,
+    "epicenePercentage": 20.76923076923077,
+    "femininePercentage": 7.6923076923076925,
+    "totalCount": 260
+  },
+  {
+    "ending": "nche",
+    "mainGender": "f",
+    "masculinePercentage": 28.571428571428573,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 71.42857142857143,
+    "totalCount": 84
+  },
+  {
+    "ending": "yte",
+    "mainGender": "m",
+    "masculinePercentage": 70.93023255813954,
+    "epicenePercentage": 10.465116279069768,
+    "femininePercentage": 18.6046511627907,
+    "totalCount": 86
+  },
+  {
+    "ending": "iste",
+    "mainGender": "e",
+    "masculinePercentage": 28.238944918541506,
+    "epicenePercentage": 70.36462373933281,
+    "femininePercentage": 1.3964313421256789,
+    "totalCount": 1289
+  },
+  {
+    "ending": "upe",
+    "mainGender": "f",
+    "masculinePercentage": 28.0,
+    "epicenePercentage": 2.0,
+    "femininePercentage": 70.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "ote",
+    "mainGender": "f",
+    "masculinePercentage": 17.816091954022987,
+    "epicenePercentage": 12.35632183908046,
+    "femininePercentage": 69.82758620689656,
+    "totalCount": 348
+  },
+  {
+    "ending": "I",
+    "mainGender": "m",
+    "masculinePercentage": 69.81132075471699,
+    "epicenePercentage": 1.8867924528301887,
+    "femininePercentage": 28.30188679245283,
+    "totalCount": 53
+  },
+  {
+    "ending": "ale",
+    "mainGender": "f",
+    "masculinePercentage": 28.630705394190873,
+    "epicenePercentage": 1.6597510373443984,
+    "femininePercentage": 69.70954356846472,
+    "totalCount": 241
+  },
+  {
+    "ending": "sis",
+    "mainGender": "m",
+    "masculinePercentage": 69.64285714285714,
+    "epicenePercentage": 3.5714285714285716,
+    "femininePercentage": 26.785714285714285,
+    "totalCount": 56
+  },
+  {
+    "ending": "gle",
+    "mainGender": "m",
+    "masculinePercentage": 67.9245283018868,
+    "epicenePercentage": 9.433962264150944,
+    "femininePercentage": 22.641509433962263,
+    "totalCount": 53
+  },
+  {
+    "ending": "de",
+    "mainGender": "f",
+    "masculinePercentage": 28.750681942171305,
+    "epicenePercentage": 3.5460992907801416,
+    "femininePercentage": 67.70321876704855,
+    "totalCount": 1833
+  },
+  {
+    "ending": "lles",
+    "mainGender": "f",
+    "masculinePercentage": 30.88235294117647,
+    "epicenePercentage": 1.4705882352941178,
+    "femininePercentage": 67.6470588235294,
+    "totalCount": 68
+  },
+  {
+    "ending": "cte",
+    "mainGender": "m",
+    "masculinePercentage": 67.24137931034483,
+    "epicenePercentage": 15.517241379310345,
+    "femininePercentage": 17.24137931034483,
+    "totalCount": 58
+  },
+  {
+    "ending": "rque",
+    "mainGender": "m",
+    "masculinePercentage": 66.66666666666667,
+    "epicenePercentage": 2.898550724637681,
+    "femininePercentage": 30.434782608695652,
+    "totalCount": 69
+  },
+  {
+    "ending": "toire",
+    "mainGender": "m",
+    "masculinePercentage": 66.66666666666667,
+    "epicenePercentage": 2.7777777777777777,
+    "femininePercentage": 30.555555555555557,
+    "totalCount": 72
+  },
+  {
+    "ending": "are",
+    "mainGender": "m",
+    "masculinePercentage": 66.41791044776119,
+    "epicenePercentage": 6.7164179104477615,
+    "femininePercentage": 26.865671641791046,
+    "totalCount": 134
+  },
+  {
+    "ending": "iche",
+    "mainGender": "f",
+    "masculinePercentage": 25.96153846153846,
+    "epicenePercentage": 7.6923076923076925,
+    "femininePercentage": 66.34615384615384,
+    "totalCount": 104
+  },
+  {
+    "ending": "ole",
+    "mainGender": "f",
+    "masculinePercentage": 28.763440860215052,
+    "epicenePercentage": 5.10752688172043,
+    "femininePercentage": 66.12903225806451,
+    "totalCount": 372
+  },
+  {
+    "ending": "ye",
+    "mainGender": "f",
+    "masculinePercentage": 34.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 66.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "onte",
+    "mainGender": "m",
+    "masculinePercentage": 66.0,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 34.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "A",
+    "mainGender": "m",
+    "masculinePercentage": 65.88235294117646,
+    "epicenePercentage": 4.705882352941177,
+    "femininePercentage": 29.41176470588235,
+    "totalCount": 85
+  },
+  {
+    "ending": "mite",
+    "mainGender": "f",
+    "masculinePercentage": 26.582278481012658,
+    "epicenePercentage": 7.594936708860759,
+    "femininePercentage": 65.82278481012658,
+    "totalCount": 79
+  },
+  {
+    "ending": "onde",
+    "mainGender": "f",
+    "masculinePercentage": 32.83582089552239,
+    "epicenePercentage": 1.492537313432836,
+    "femininePercentage": 65.67164179104478,
+    "totalCount": 67
+  },
+  {
+    "ending": "rme",
+    "mainGender": "m",
+    "masculinePercentage": 65.2892561983471,
+    "epicenePercentage": 6.6115702479338845,
+    "femininePercentage": 28.09917355371901,
+    "totalCount": 121
+  },
+  {
+    "ending": "ide",
+    "mainGender": "m",
+    "masculinePercentage": 65.1105651105651,
+    "epicenePercentage": 10.31941031941032,
+    "femininePercentage": 24.57002457002457,
+    "totalCount": 407
+  },
+  {
+    "ending": "xe",
+    "mainGender": "m",
+    "masculinePercentage": 65.0,
+    "epicenePercentage": 6.666666666666667,
+    "femininePercentage": 28.333333333333332,
+    "totalCount": 60
+  },
+  {
+    "ending": "ousse",
+    "mainGender": "f",
+    "masculinePercentage": 33.333333333333336,
+    "epicenePercentage": 1.9607843137254901,
+    "femininePercentage": 64.70588235294117,
+    "totalCount": 51
+  },
+  {
+    "ending": "nate",
+    "mainGender": "m",
+    "masculinePercentage": 64.21052631578948,
+    "epicenePercentage": 2.1052631578947367,
+    "femininePercentage": 33.68421052631579,
+    "totalCount": 95
+  },
+  {
+    "ending": "les",
+    "mainGender": "f",
+    "masculinePercentage": 35.13513513513514,
+    "epicenePercentage": 0.9009009009009009,
+    "femininePercentage": 63.96396396396396,
+    "totalCount": 111
+  },
+  {
+    "ending": "fe",
+    "mainGender": "f",
+    "masculinePercentage": 27.906976744186046,
+    "epicenePercentage": 8.13953488372093,
+    "femininePercentage": 63.95348837209303,
+    "totalCount": 86
+  },
+  {
+    "ending": "ah",
+    "mainGender": "m",
+    "masculinePercentage": 63.9344262295082,
+    "epicenePercentage": 3.278688524590164,
+    "femininePercentage": 32.78688524590164,
+    "totalCount": 61
+  },
+  {
+    "ending": "ste",
+    "mainGender": "e",
+    "masculinePercentage": 31.66894664842681,
+    "epicenePercentage": 63.81668946648427,
+    "femininePercentage": 4.514363885088919,
+    "totalCount": 1462
+  },
+  {
+    "ending": "che",
+    "mainGender": "f",
+    "masculinePercentage": 31.122448979591837,
+    "epicenePercentage": 5.272108843537415,
+    "femininePercentage": 63.605442176870746,
+    "totalCount": 588
+  },
+  {
+    "ending": "mane",
+    "mainGender": "e",
+    "masculinePercentage": 20.634920634920636,
+    "epicenePercentage": 63.492063492063494,
+    "femininePercentage": 15.873015873015873,
+    "totalCount": 63
+  },
+  {
+    "ending": "ana",
+    "mainGender": "m",
+    "masculinePercentage": 62.82051282051282,
+    "epicenePercentage": 12.820512820512821,
+    "femininePercentage": 24.358974358974358,
+    "totalCount": 78
+  },
+  {
+    "ending": "ume",
+    "mainGender": "m",
+    "masculinePercentage": 62.295081967213115,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 37.704918032786885,
+    "totalCount": 61
+  },
+  {
+    "ending": "ogue",
+    "mainGender": "e",
+    "masculinePercentage": 31.48936170212766,
+    "epicenePercentage": 62.12765957446808,
+    "femininePercentage": 6.382978723404255,
+    "totalCount": 235
+  },
+  {
+    "ending": "gre",
+    "mainGender": "m",
+    "masculinePercentage": 62.0,
+    "epicenePercentage": 8.0,
+    "femininePercentage": 30.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "rate",
+    "mainGender": "m",
+    "masculinePercentage": 61.855670103092784,
+    "epicenePercentage": 16.49484536082474,
+    "femininePercentage": 21.649484536082475,
+    "totalCount": 97
+  },
+  {
+    "ending": "le",
+    "mainGender": "f",
+    "masculinePercentage": 32.08243617348508,
+    "epicenePercentage": 6.7056290372193175,
+    "femininePercentage": 61.211934789295604,
+    "totalCount": 3251
+  },
+  {
+    "ending": "gne",
+    "mainGender": "f",
+    "masculinePercentage": 31.34328358208955,
+    "epicenePercentage": 7.462686567164179,
+    "femininePercentage": 61.19402985074627,
+    "totalCount": 134
+  },
+  {
+    "ending": "rure",
+    "mainGender": "f",
+    "masculinePercentage": 37.66233766233766,
+    "epicenePercentage": 1.2987012987012987,
+    "femininePercentage": 61.03896103896104,
+    "totalCount": 77
+  },
+  {
+    "ending": "usse",
+    "mainGender": "f",
+    "masculinePercentage": 35.064935064935064,
+    "epicenePercentage": 3.896103896103896,
+    "femininePercentage": 61.03896103896104,
+    "totalCount": 77
+  },
+  {
+    "ending": "ble",
+    "mainGender": "m",
+    "masculinePercentage": 61.02564102564103,
+    "epicenePercentage": 25.128205128205128,
+    "femininePercentage": 13.846153846153847,
+    "totalCount": 195
+  },
+  {
+    "ending": "nique",
+    "mainGender": "f",
+    "masculinePercentage": 24.390243902439025,
+    "epicenePercentage": 14.634146341463415,
+    "femininePercentage": 60.97560975609756,
+    "totalCount": 82
+  },
+  {
+    "ending": "a",
+    "mainGender": "m",
+    "masculinePercentage": 60.84543125533732,
+    "epicenePercentage": 6.746370623398804,
+    "femininePercentage": 32.40819812126388,
+    "totalCount": 2342
+  },
+  {
+    "ending": "M",
+    "mainGender": "m",
+    "masculinePercentage": 60.75949367088607,
+    "epicenePercentage": 6.329113924050633,
+    "femininePercentage": 32.91139240506329,
+    "totalCount": 79
+  },
+  {
+    "ending": "nque",
+    "mainGender": "f",
+    "masculinePercentage": 35.714285714285715,
+    "epicenePercentage": 3.5714285714285716,
+    "femininePercentage": 60.714285714285715,
+    "totalCount": 56
+  },
+  {
+    "ending": "ra",
+    "mainGender": "m",
+    "masculinePercentage": 60.68376068376068,
+    "epicenePercentage": 10.683760683760683,
+    "femininePercentage": 28.632478632478634,
+    "totalCount": 234
+  },
+  {
+    "ending": "ane",
+    "mainGender": "f",
+    "masculinePercentage": 29.718875502008032,
+    "epicenePercentage": 9.63855421686747,
+    "femininePercentage": 60.6425702811245,
+    "totalCount": 498
+  },
+  {
+    "ending": "ve",
+    "mainGender": "f",
+    "masculinePercentage": 31.858407079646017,
+    "epicenePercentage": 7.522123893805309,
+    "femininePercentage": 60.61946902654867,
+    "totalCount": 226
+  },
+  {
+    "ending": "q",
+    "mainGender": "m",
+    "masculinePercentage": 60.37735849056604,
+    "epicenePercentage": 33.9622641509434,
+    "femininePercentage": 5.660377358490566,
+    "totalCount": 53
+  },
+  {
+    "ending": "D",
+    "mainGender": "m",
+    "masculinePercentage": 59.45945945945946,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 40.54054054054054,
+    "totalCount": 74
+  },
+  {
+    "ending": "the",
+    "mainGender": "m",
+    "masculinePercentage": 58.68263473053892,
+    "epicenePercentage": 7.18562874251497,
+    "femininePercentage": 34.131736526946106,
+    "totalCount": 167
+  },
+  {
+    "ending": "rge",
+    "mainGender": "f",
+    "masculinePercentage": 36.111111111111114,
+    "epicenePercentage": 5.555555555555555,
+    "femininePercentage": 58.333333333333336,
+    "totalCount": 72
+  },
+  {
+    "ending": "aire",
+    "mainGender": "m",
+    "masculinePercentage": 58.12080536912752,
+    "epicenePercentage": 25.100671140939596,
+    "femininePercentage": 16.778523489932887,
+    "totalCount": 745
+  },
+  {
+    "ending": "erre",
+    "mainGender": "m",
+    "masculinePercentage": 58.064516129032256,
+    "epicenePercentage": 4.838709677419355,
+    "femininePercentage": 37.096774193548384,
+    "totalCount": 62
+  },
+  {
+    "ending": "te",
+    "mainGender": "f",
+    "masculinePercentage": 23.587547356283974,
+    "epicenePercentage": 18.695437324987648,
+    "femininePercentage": 57.71701531872838,
+    "totalCount": 6071
+  },
+  {
+    "ending": "rne",
+    "mainGender": "f",
+    "masculinePercentage": 34.51327433628319,
+    "epicenePercentage": 7.964601769911504,
+    "femininePercentage": 57.52212389380531,
+    "totalCount": 113
+  },
+  {
+    "ending": "oire",
+    "mainGender": "f",
+    "masculinePercentage": 41.31736526946108,
+    "epicenePercentage": 1.1976047904191616,
+    "femininePercentage": 57.48502994011976,
+    "totalCount": 167
+  },
+  {
+    "ending": "obe",
+    "mainGender": "e",
+    "masculinePercentage": 30.0,
+    "epicenePercentage": 57.142857142857146,
+    "femininePercentage": 12.857142857142858,
+    "totalCount": 70
+  },
+  {
+    "ending": "ule",
+    "mainGender": "f",
+    "masculinePercentage": 41.13636363636363,
+    "epicenePercentage": 1.8181818181818181,
+    "femininePercentage": 57.04545454545455,
+    "totalCount": 440
+  },
+  {
+    "ending": "dre",
+    "mainGender": "m",
+    "masculinePercentage": 56.98924731182796,
+    "epicenePercentage": 7.526881720430108,
+    "femininePercentage": 35.483870967741936,
+    "totalCount": 93
+  },
+  {
+    "ending": "tane",
+    "mainGender": "f",
+    "masculinePercentage": 43.10344827586207,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 56.89655172413793,
+    "totalCount": 58
+  },
+  {
+    "ending": "ate",
+    "mainGender": "m",
+    "masculinePercentage": 56.8421052631579,
+    "epicenePercentage": 6.842105263157895,
+    "femininePercentage": 36.31578947368421,
+    "totalCount": 570
+  },
+  {
+    "ending": "la",
+    "mainGender": "m",
+    "masculinePercentage": 56.652360515021456,
+    "epicenePercentage": 5.579399141630901,
+    "femininePercentage": 37.76824034334764,
+    "totalCount": 233
+  },
+  {
+    "ending": "iote",
+    "mainGender": "f",
+    "masculinePercentage": 15.09433962264151,
+    "epicenePercentage": 28.30188679245283,
+    "femininePercentage": 56.60377358490566,
+    "totalCount": 106
+  },
+  {
+    "ending": "ya",
+    "mainGender": "m",
+    "masculinePercentage": 56.25,
+    "epicenePercentage": 9.375,
+    "femininePercentage": 34.375,
+    "totalCount": 64
+  },
+  {
+    "ending": "cule",
+    "mainGender": "m",
+    "masculinePercentage": 56.09756097560975,
+    "epicenePercentage": 0.8130081300813008,
+    "femininePercentage": 43.08943089430894,
+    "totalCount": 123
+  },
+  {
+    "ending": "va",
+    "mainGender": "m",
+    "masculinePercentage": 56.0,
+    "epicenePercentage": 2.0,
+    "femininePercentage": 42.0,
+    "totalCount": 50
+  },
+  {
+    "ending": "ace",
+    "mainGender": "f",
+    "masculinePercentage": 37.391304347826086,
+    "epicenePercentage": 6.956521739130435,
+    "femininePercentage": 55.65217391304348,
+    "totalCount": 115
+  },
+  {
+    "ending": "ire",
+    "mainGender": "m",
+    "masculinePercentage": 55.116514690982775,
+    "epicenePercentage": 20.26342451874367,
+    "femininePercentage": 24.620060790273556,
+    "totalCount": 987
+  },
+  {
+    "ending": "ngue",
+    "mainGender": "f",
+    "masculinePercentage": 34.69387755102041,
+    "epicenePercentage": 10.204081632653061,
+    "femininePercentage": 55.10204081632653,
+    "totalCount": 98
+  },
+  {
+    "ending": "es",
+    "mainGender": "m",
+    "masculinePercentage": 54.88215488215488,
+    "epicenePercentage": 1.8518518518518519,
+    "femininePercentage": 43.26599326599327,
+    "totalCount": 594
+  },
+  {
+    "ending": "ache",
+    "mainGender": "f",
+    "masculinePercentage": 37.634408602150536,
+    "epicenePercentage": 7.526881720430108,
+    "femininePercentage": 54.83870967741935,
+    "totalCount": 93
+  },
+  {
+    "ending": "taire",
+    "mainGender": "m",
+    "masculinePercentage": 54.81927710843374,
+    "epicenePercentage": 38.55421686746988,
+    "femininePercentage": 6.626506024096385,
+    "totalCount": 166
+  },
+  {
+    "ending": "ame",
+    "mainGender": "m",
+    "masculinePercentage": 54.80769230769231,
+    "epicenePercentage": 5.769230769230769,
+    "femininePercentage": 39.42307692307692,
+    "totalCount": 104
+  },
+  {
+    "ending": "son",
+    "mainGender": "m",
+    "masculinePercentage": 54.779411764705884,
+    "epicenePercentage": 0.7352941176470589,
+    "femininePercentage": 44.48529411764706,
+    "totalCount": 272
+  },
+  {
+    "ending": "rre",
+    "mainGender": "m",
+    "masculinePercentage": 54.54545454545455,
+    "epicenePercentage": 2.479338842975207,
+    "femininePercentage": 42.97520661157025,
+    "totalCount": 121
+  },
+  {
+    "ending": "pe",
+    "mainGender": "m",
+    "masculinePercentage": 54.312354312354316,
+    "epicenePercentage": 3.7296037296037294,
+    "femininePercentage": 41.95804195804196,
+    "totalCount": 429
+  },
+  {
+    "ending": "ia",
+    "mainGender": "m",
+    "masculinePercentage": 54.27350427350427,
+    "epicenePercentage": 2.9914529914529915,
+    "femininePercentage": 42.73504273504273,
+    "totalCount": 234
+  },
+  {
+    "ending": "osse",
+    "mainGender": "f",
+    "masculinePercentage": 41.666666666666664,
+    "epicenePercentage": 4.166666666666667,
+    "femininePercentage": 54.166666666666664,
+    "totalCount": 72
+  },
+  {
+    "ending": "ithe",
+    "mainGender": "m",
+    "masculinePercentage": 53.84615384615385,
+    "epicenePercentage": 0.0,
+    "femininePercentage": 46.15384615384615,
+    "totalCount": 78
+  },
+  {
+    "ending": "naire",
+    "mainGender": "m",
+    "masculinePercentage": 53.691275167785236,
+    "epicenePercentage": 34.899328859060404,
+    "femininePercentage": 11.409395973154362,
+    "totalCount": 149
+  },
+  {
+    "ending": "rse",
+    "mainGender": "f",
+    "masculinePercentage": 41.666666666666664,
+    "epicenePercentage": 5.0,
+    "femininePercentage": 53.333333333333336,
+    "totalCount": 60
+  },
+  {
+    "ending": "on",
+    "mainGender": "f",
+    "masculinePercentage": 46.176703645007926,
+    "epicenePercentage": 0.49524564183835185,
+    "femininePercentage": 53.32805071315372,
+    "totalCount": 5048
+  },
+  {
+    "ending": "be",
+    "mainGender": "m",
+    "masculinePercentage": 53.16901408450704,
+    "epicenePercentage": 19.014084507042252,
+    "femininePercentage": 27.816901408450704,
+    "totalCount": 284
+  },
+  {
+    "ending": "igne",
+    "mainGender": "f",
+    "masculinePercentage": 39.21568627450981,
+    "epicenePercentage": 7.8431372549019605,
+    "femininePercentage": 52.94117647058823,
+    "totalCount": 51
+  },
+  {
+    "ending": "ka",
+    "mainGender": "m",
+    "masculinePercentage": 52.89855072463768,
+    "epicenePercentage": 9.420289855072463,
+    "femininePercentage": 37.68115942028985,
+    "totalCount": 138
+  },
+  {
+    "ending": "ndre",
+    "mainGender": "m",
+    "masculinePercentage": 52.83018867924528,
+    "epicenePercentage": 7.547169811320755,
+    "femininePercentage": 39.62264150943396,
+    "totalCount": 53
+  },
+  {
+    "ending": "hone",
+    "mainGender": "m",
+    "masculinePercentage": 52.83018867924528,
+    "epicenePercentage": 45.283018867924525,
+    "femininePercentage": 1.8867924528301887,
+    "totalCount": 106
+  },
+  {
+    "ending": "da",
+    "mainGender": "m",
+    "masculinePercentage": 52.17391304347826,
+    "epicenePercentage": 9.565217391304348,
+    "femininePercentage": 38.26086956521739,
+    "totalCount": 115
+  },
+  {
+    "ending": "ime",
+    "mainGender": "m",
+    "masculinePercentage": 52.054794520547944,
+    "epicenePercentage": 8.219178082191782,
+    "femininePercentage": 39.726027397260275,
+    "totalCount": 73
+  },
+  {
+    "ending": "oule",
+    "mainGender": "f",
+    "masculinePercentage": 45.67901234567901,
+    "epicenePercentage": 2.4691358024691357,
+    "femininePercentage": 51.851851851851855,
+    "totalCount": 81
+  },
+  {
+    "ending": "icule",
+    "mainGender": "m",
+    "masculinePercentage": 51.351351351351354,
+    "epicenePercentage": 1.3513513513513513,
+    "femininePercentage": 47.2972972972973,
+    "totalCount": 74
+  },
+  {
+    "ending": "erne",
+    "mainGender": "f",
+    "masculinePercentage": 35.294117647058826,
+    "epicenePercentage": 13.72549019607843,
+    "femininePercentage": 50.98039215686274,
+    "totalCount": 51
+  },
+  {
+    "ending": "iaire",
+    "mainGender": "m",
+    "masculinePercentage": 50.943396226415096,
+    "epicenePercentage": 33.9622641509434,
+    "femininePercentage": 15.09433962264151,
+    "totalCount": 53
+  },
+  {
+    "ending": "able",
+    "mainGender": "m",
+    "masculinePercentage": 50.90909090909091,
+    "epicenePercentage": 38.18181818181818,
+    "femininePercentage": 10.909090909090908,
+    "totalCount": 110
+  },
+  {
+    "ending": "late",
+    "mainGender": "m",
+    "masculinePercentage": 50.70422535211268,
+    "epicenePercentage": 1.408450704225352,
+    "femininePercentage": 47.88732394366197,
+    "totalCount": 71
+  },
+  {
+    "ending": "nge",
+    "mainGender": "f",
+    "masculinePercentage": 48.83720930232558,
+    "epicenePercentage": 1.1627906976744187,
+    "femininePercentage": 50.0,
+    "totalCount": 86
+  },
+  {
+    "ending": "ria",
+    "mainGender": "m",
+    "masculinePercentage": 50.0,
+    "epicenePercentage": 3.8461538461538463,
+    "femininePercentage": 46.15384615384615,
+    "totalCount": 52
+  },
+  {
+    "ending": "ouche",
+    "mainGender": "f",
+    "masculinePercentage": 48.0,
+    "epicenePercentage": 2.6666666666666665,
+    "femininePercentage": 49.333333333333336,
+    "totalCount": 75
+  },
+  {
+    "ending": "one",
+    "mainGender": "m",
+    "masculinePercentage": 49.2836676217765,
+    "epicenePercentage": 16.9054441260745,
+    "femininePercentage": 33.810888252149,
+    "totalCount": 349
+  },
+  {
+    "ending": "rbe",
+    "mainGender": "f",
+    "masculinePercentage": 47.45762711864407,
+    "epicenePercentage": 3.389830508474576,
+    "femininePercentage": 49.152542372881356,
+    "totalCount": 59
+  },
+  {
+    "ending": "re",
+    "mainGender": "m",
+    "masculinePercentage": 48.902132998745294,
+    "epicenePercentage": 8.594730238393977,
+    "femininePercentage": 42.50313676286073,
+    "totalCount": 3188
+  },
+  {
+    "ending": "sque",
+    "mainGender": "m",
+    "masculinePercentage": 48.54368932038835,
+    "epicenePercentage": 21.359223300970875,
+    "femininePercentage": 30.097087378640776,
+    "totalCount": 103
+  },
+  {
+    "ending": "ze",
+    "mainGender": "m",
+    "masculinePercentage": 48.38709677419355,
+    "epicenePercentage": 10.75268817204301,
+    "femininePercentage": 40.86021505376344,
+    "totalCount": 93
+  },
+  {
+    "ending": "laire",
+    "mainGender": "m",
+    "masculinePercentage": 47.142857142857146,
+    "epicenePercentage": 19.285714285714285,
+    "femininePercentage": 33.57142857142857,
+    "totalCount": 140
+  },
+  {
+    "ending": "ta",
+    "mainGender": "f",
+    "masculinePercentage": 44.88636363636363,
+    "epicenePercentage": 8.522727272727273,
+    "femininePercentage": 46.59090909090909,
+    "totalCount": 176
+  },
+  {
+    "ending": "he",
+    "mainGender": "m",
+    "masculinePercentage": 46.161321671525755,
+    "epicenePercentage": 9.523809523809524,
+    "femininePercentage": 44.31486880466473,
+    "totalCount": 1029
+  },
+  {
+    "ending": "oque",
+    "mainGender": "f",
+    "masculinePercentage": 41.791044776119406,
+    "epicenePercentage": 13.432835820895523,
+    "femininePercentage": 44.776119402985074,
+    "totalCount": 67
+  },
+  {
+    "ending": "ue",
+    "mainGender": "f",
+    "masculinePercentage": 35.12623490669594,
+    "epicenePercentage": 20.417124039517013,
+    "femininePercentage": 44.456641053787045,
+    "totalCount": 1822
+  },
+  {
+    "ending": "ave",
+    "mainGender": "m",
+    "masculinePercentage": 42.857142857142854,
+    "epicenePercentage": 16.883116883116884,
+    "femininePercentage": 40.25974025974026,
+    "totalCount": 77
+  },
+  {
+    "ending": "ile",
+    "mainGender": "e",
+    "masculinePercentage": 41.452991452991455,
+    "epicenePercentage": 42.30769230769231,
+    "femininePercentage": 16.23931623931624,
+    "totalCount": 234
+  },
+  {
+    "ending": "aque",
+    "mainGender": "f",
+    "masculinePercentage": 38.68613138686131,
+    "epicenePercentage": 19.708029197080293,
+    "femininePercentage": 41.605839416058394,
+    "totalCount": 137
+  },
+  {
+    "ending": "gue",
+    "mainGender": "e",
+    "masculinePercentage": 31.82844243792325,
+    "epicenePercentage": 35.89164785553047,
+    "femininePercentage": 32.27990970654628,
+    "totalCount": 443
+  }
+]

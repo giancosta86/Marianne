@@ -1,0 +1,31 @@
+.m {
+    background: rgb(30, 144, 255);
+}
+
+.e {
+    background: rgb(50, 205, 50);
+}
+
+.f {
+    background: rgb(238, 130, 238);
+}
+
+
+.linearTable {
+    tbody {
+        background: #c9fdc9;
+    }
+}
+
+
+.frequencyTable {
+    tbody {
+        .item {
+            background: #c9fdc9;
+        }
+
+        .frequency {
+            background: lemonchiffon;
+        }
+    }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "item": "-",
+    "frequency": 7985
+  },
+  {
+    "item": "-e",
+    "frequency": 3461
+  },
+  {
+    "item": "-ne",
+    "frequency": 1190
+  },
+  {
+    "item": "-x ⇒ -se",
+    "frequency": 746
+  },
+  {
+    "item": "-f ⇒ -ve",
+    "frequency": 500
+  },
+  {
+    "item": "-le",
+    "frequency": 378
+  },
+  {
+    "item": "-r ⇒ -se",
+    "frequency": 329
+  },
+  {
+    "item": "-er ⇒ -ère",
+    "frequency": 291
+  },
+  {
+    "item": "-eur ⇒ -rice",
+    "frequency": 179
+  },
+  {
+    "item": "-te",
+    "frequency": 61
+  },
+  {
+    "item": "-c ⇒ -que",
+    "frequency": 23
+  },
+  {
+    "item": "-que",
+    "frequency": 22
+  },
+  {
+    "item": "-et ⇒ -ète",
+    "frequency": 13
+  },
+  {
+    "item": "-au ⇒ -lle",
+    "frequency": 11
+  }
+]

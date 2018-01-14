@@ -1,0 +1,21 @@
+---
+layout: default
+bodyClass: home
+---
+
+{% for page in site.html_pages %}
+{% if page.url != "/" and page.url != "/about/" and page.url != '/links/' %}
+
+{% assign pageCategoryCode = page.url | split: '-' | first %}
+
+{% case pageCategoryCode %}
+{% when "/dm" %}
+{% assign pageCategory = "Data Mining" %}
+{% endcase %}
+
+<p class="pageLink">
+    {% if pageCategory %}<span class="category">{{ pageCategory }}</span> {% endif %}<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+</p>
+
+{% endif %}
+{% endfor %}

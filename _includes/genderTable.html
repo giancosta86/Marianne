@@ -1,0 +1,37 @@
+{% assign itemKey = include.itemKey | default: "item" %}
+
+<table class="genderTable">
+  <thead>
+    <tr>
+      <td>{{ include.itemHeader }}</td>
+      <td>Main gender</td>
+      <td>Masculine %</td>
+      <td>Epicene %</td>
+      <td>Feminine %</td>
+      <td>Total count</td>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for entry in include.source %}
+
+    {% if entry.mainGender == "m" %}
+    {% capture rowStyle %}background: rgba(30, 144, 255, {{ entry.masculinePercentage | divided_by: 100.0 }});{% endcapture %}
+    {% elsif entry.mainGender == "e" %}
+    {% capture rowStyle %}background: rgba(50, 205, 50, {{ entry.epicenePercentage | divided_by: 100.0 }});{% endcapture %}
+    {% else %}
+    {% capture rowStyle %}background: rgba(238, 130, 238, {{ entry.femininePercentage | divided_by: 100.0 }});{% endcapture %}
+    {% endif %}
+
+    <tr style="{{ rowStyle }}">
+      <td>{{ entry[itemKey] | prepend: include.itemPrefix | append: include.itemSuffix }}</td>
+      <td>{{ entry.mainGender }}</td>
+      <td>{{ entry.masculinePercentage | round: 2 }} %</td>
+      <td>{{ entry.epicenePercentage | round: 2 }} %</td>
+      <td>{{ entry.femininePercentage | round: 2 }} %</td>
+      <td>{{ entry.totalCount }}</td>
+    </tr>
+
+    {% endfor %}
+  </tbody>
+</table>

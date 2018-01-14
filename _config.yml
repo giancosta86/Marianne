@@ -1,0 +1,17 @@
+# -------------
+# Site settings
+# -------------
+
+title: Marianne
+description: Website dedicated to the French language and culture
+baseurl: "/Marianne"
+url: "http://gianlucacosta.info/Marianne/"
+
+facebookPage: "https://www.facebook.com/Marianne-1657508987673092/"
+
+
+# --------------
+# Build settings
+# --------------
+
+markdown: kramdown
