@@ -17,6 +17,10 @@ permalink: /about/
 
 The name of the website is dedicated to [Marianne](https://en.wikipedia.org/wiki/Marianne), one the most iconic French national symbols.
 
+This project is part of [Elysium](https://www.facebook.com/Elysium-Exploring-French-1864049787240701/), a vast open source linguistic project dedicated to the French language and culture.
+
+
+
 
 ## About me
 

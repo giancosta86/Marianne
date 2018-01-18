@@ -19,6 +19,9 @@ The name of the website is dedicated to [Marianne](https://en.wikipedia.org/wiki
 **Official website**: [http://gianlucacosta.info/Marianne](http://gianlucacosta.info/Marianne)
 
 
+This project is part of [Elysium](https://www.facebook.com/Elysium-Exploring-French-1864049787240701/), a vast open source linguistic project dedicated to the French language and culture.
+
+
 
 ## Special thanks
 
