@@ -53,7 +53,7 @@ excerpt: "Ressources pour mieux apprendre le Français"
 
 
 
-### Grammaires
+### Grammaire
 
 * [Grammathèque](https://deascuola.it/secondaria-ii-grado?layout=book&book=10609)
 
@@ -93,7 +93,7 @@ excerpt: "Ressources pour mieux apprendre le Français"
 
 
 
-### Dictionnaries
+### Dictionnaires
 
 * [Éditions Robert](https://www.lerobert.com/)
 
