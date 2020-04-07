@@ -4,11 +4,11 @@
   <thead>
     <tr>
       <td>{{ include.itemHeader }}</td>
-      <td>Main gender</td>
-      <td>Masculine %</td>
-      <td>Epicene %</td>
-      <td>Feminine %</td>
-      <td>Total count</td>
+      <td>Genre principal</td>
+      <td>Masculin %</td>
+      <td>Épicène %</td>
+      <td>Féminin %</td>
+      <td>Total</td>
     </tr>
   </thead>
 
@@ -16,11 +16,14 @@
     {% for entry in include.source %}
 
     {% if entry.mainGender == "m" %}
-    {% capture rowStyle %}background: rgba(30, 144, 255, {{ entry.masculinePercentage | divided_by: 100.0 }});{% endcapture %}
+    {% capture rowStyle %}background: rgba(30, 144, 255,
+    {{ entry.masculinePercentage | divided_by: 100.0 }});{% endcapture %}
     {% elsif entry.mainGender == "e" %}
-    {% capture rowStyle %}background: rgba(50, 205, 50, {{ entry.epicenePercentage | divided_by: 100.0 }});{% endcapture %}
+    {% capture rowStyle %}background: rgba(50, 205, 50,
+    {{ entry.epicenePercentage | divided_by: 100.0 }});{% endcapture %}
     {% else %}
-    {% capture rowStyle %}background: rgba(238, 130, 238, {{ entry.femininePercentage | divided_by: 100.0 }});{% endcapture %}
+    {% capture rowStyle %}background: rgba(238, 130, 238,
+    {{ entry.femininePercentage | divided_by: 100.0 }});{% endcapture %}
     {% endif %}
 
     <tr style="{{ rowStyle }}">

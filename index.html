@@ -10,11 +10,12 @@ bodyClass: home
 
 {% case pageCategoryCode %}
 {% when "/dm" %}
-{% assign pageCategory = "Data Mining" %}
+{% assign pageCategory = "Morphologie" %}
 {% endcase %}
 
 <p class="pageLink">
-    {% if pageCategory %}<span class="category">{{ pageCategory }}</span> {% endif %}<a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    {% if pageCategory %}<span class="category">{{ pageCategory }}</span> {% endif %}<a
+        href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
 </p>
 
 {% endif %}
