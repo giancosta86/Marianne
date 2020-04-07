@@ -1,32 +1,25 @@
 ---
 layout: page
-title: "Links"
+title: "Hyperliens"
 permalink: /links/
-excerpt: "Valuable resources for learning French"
+excerpt: "Ressources pour mieux apprendre le Français"
 ---
-
-This page is a gateway to online resources that I personally consider valuable for learning French.
-
-Please, remember to come back every now and then, as the list will probably get longer over time! ^\_\_^
-
-
 
 ## YouTube
 
-### Phonetics
+### Phonétique
 
 * [FrenchSounds](https://www.youtube.com/channel/UC2L9w7ozDeUl1w5ZjUPCOQA)
 
 
-### National anthem
+### Hymne national
 
-* [La Marseillaise](https://www.youtube.com/results?search_query=la+marseillaise+mireille+mathieu) - my favorite version is currently the one performed by Mireille Mathieu
-
-+ [La Marseillaise](https://youtu.be/9HpmZ7LHFrM) - performed by me, at the glockenspiel
+* [La Marseillaise](https://www.youtube.com/results?search_query=la+marseillaise+mireille+mathieu)
 
 
 
-### Music
+
+### Musique
 
 * [Édith Piaf](https://www.youtube.com/results?search_query=edith+piaf+greatest+hits)
 
@@ -38,7 +31,7 @@ Please, remember to come back every now and then, as the list will probably get 
 
 
 
-## Online dictionaries
+## Dictionnaire en ligne
 
 * [Wiktionnaire](https://fr.wiktionary.org/)
 
@@ -50,9 +43,9 @@ Please, remember to come back every now and then, as the list will probably get 
 
 
 
-## Books
+## Livres
 
-### Vocabulary
+### Vocabulaires
 
 * [Dictionnaire illustré Français](http://www.elilaspigaedizioni.it/ita/scheda-libro?1698/free)
 
@@ -60,7 +53,7 @@ Please, remember to come back every now and then, as the list will probably get 
 
 
 
-### Grammar
+### Grammaires
 
 * [Grammathèque](https://deascuola.it/secondaria-ii-grado?layout=book&book=10609)
 
@@ -78,7 +71,7 @@ Please, remember to come back every now and then, as the list will probably get 
 
 * [Bescherelle - L'essentiel](http://bescherelle.com/bescherelle-lessentiel-9782218952418)
 
-* [Anglais, la grammaire](http://bescherelle.com/bescherelle-anglais-la-grammaire-9782218926198) - to study both French and English at the same time
+* [Anglais, la grammaire](http://bescherelle.com/bescherelle-anglais-la-grammaire-9782218926198)
 
 
 
@@ -88,19 +81,19 @@ Please, remember to come back every now and then, as the list will probably get 
 
 
 
-### Phonetics
+### Phonétique
 
 * [Phonétique progressive du français](https://www.cle-international.com/recherche?text=%22phon%C3%A9tique%20progressive%20du%20fran%C3%A7ais%22)
 
 
 
-### Ortography
+### Ortographie
 
 * [Orthographe progressive du français](https://www.cle-international.com/recherche?text=%22orthographe%20progressive%20du%20fran%C3%A7ais%22)
 
 
 
-### Dictionaries
+### Dictionnaries
 
 * [Éditions Robert](https://www.lerobert.com/)
 

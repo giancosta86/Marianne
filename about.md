@@ -28,9 +28,9 @@ I started learning French at high school, back in the year 2000: since then, I h
 
 I continued studying French on my own even while I was at University (Computer Engineering) and in December 2013 I managed to pass [DALF C1](http://www.ciep.fr/en/dalf/detailed-information-on-the-examinations) - an examination dedicated to fluency in French.
 
-I love studying natural languages - in particular, I have also created another website while exploring [German](http://gianlucacosta.info/FarbigesDeutsch/).
+I love studying natural languages - in particular, I have also created another website while exploring [German](https://gianlucacosta.info/FarbigesDeutsch/).
 
-For further information about me, please visit [my personal website](http://gianlucacosta.info/).
+For further information about me, please visit [my personal website](https://gianlucacosta.info/).
 
 
 

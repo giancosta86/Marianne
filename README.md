@@ -16,7 +16,7 @@
 The name of the website is dedicated to [Marianne](https://en.wikipedia.org/wiki/Marianne), one the most iconic French national symbols.
 
 
-**Official website**: [http://gianlucacosta.info/Marianne](http://gianlucacosta.info/Marianne)
+**Official website**: [https://gianlucacosta.info/Marianne](https://gianlucacosta.info/Marianne)
 
 
 

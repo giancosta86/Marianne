@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 
-<html lang="{{ page.lang | default: "en" }}">
-  {% include head.html %}
+<html lang="{{ page.lang | default: "fr" }}">
+{% include head.html %}
 
-  {% if page.bodyClass %}
-  <body class="{{ page.bodyClass }}">
+{% if page.bodyClass %}
+
+<body class="{{ page.bodyClass }}">
   {% else %}
+
   <body>
-  {% endif %}
+    {% endif %}
 
     {% include header.html %}
 
@@ -18,4 +20,5 @@
     {% include footer.html %}
 
   </body>
+
 </html>
